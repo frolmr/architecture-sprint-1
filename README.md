@@ -118,3 +118,12 @@
         └── components
             └── PopupWithForm.js
 ```
+
+
+## Задание 2
+
+### Архитектурная схема микросервисов:
+
+[Google Drive](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=swa_sprint_1_task_2.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1VQ1EQh0xE94UszX13zu25zDwCkRVq1tN%26export%3Ddownload)
+
+[Repo](./swa_sprint_1_task_2.drawio.xml)
